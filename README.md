@@ -1,16 +1,24 @@
-## Hi there 👋
+# README
 
-<!--
-**DrPixels/DrPixels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hello! I'm a second-year Computer Science student with a passion for technology and programming. I enjoy exploring different areas of computer science, including algorithms, data structures, web development, and software engineering.
 
-Here are some ideas to get you started:
+## Education
+- **Bachelor of Science in Computer Science**
+  - Technological Insitute of the Philippines - Quezon City
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Programming Languages**: Python, Java, Javascript
+- **Web Development**: HTML, CSS, JavaScript, React
+- **App Development**: React Native
+- **Database Management**: MySQL
+- **Tools & Technologies**: Git, Visual Studio Code
+- **Concepts**: Data Structures, Algorithms, Object-Oriented Programming, Software Development Life Cycle
+
+## Interests
+- Software Development
+- Artificial Intelligence
+- Web and App Development
+
+## Acknowledgements
+Special thanks to my professors and peers for their support and guidance throughout my studies!
