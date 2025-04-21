@@ -9,7 +9,7 @@ Hello! I'm a second-year Computer Science student with a passion for technology 
 
 ## Skills
 - **Programming Languages**: Python, Java, Javascript
-- **Web Development**: HTML, CSS, JavaScript, React
+- **Web Development**: HTML, CSS, JavaScript, React, SpringBoot (currently learning)
 - **App Development**: React Native
 - **Database Management**: MySQL
 - **Tools & Technologies**: Git, Visual Studio Code
